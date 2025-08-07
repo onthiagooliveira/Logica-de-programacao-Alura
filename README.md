@@ -9,7 +9,7 @@ Ao final do curso, desenvolvi um pequeno **jogo interativo** que coloca em prát
 
 
 > 🔗 Acesse o projeto online:  
-> [logica-de-programacao-alura.vercel.app](https://logica-de-programacao-alura-ro81buajm.vercel.app/)
+> [logica-de-programacao-alura.vercel.app](https://logica-de-programacao-alura-lt1pl0rp4.vercel.app/)
 
 ---
 

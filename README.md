@@ -1,31 +1,41 @@
-#  Lógica de Programação – Alura + Oracle ONE
+# 🎮 Lógica de Programação – Alura + Oracle ONE
 
-##  Sobre o projeto  
-Este repositório contém os exercícios, atividades e desafios práticos realizados durante o curso **“Lógica de Programação: mergulhe em programação com JavaScript”**, oferecido pela [Alura](https://www.alura.com.br/) em parceria com o programa Oracle NEXT Education.
+## Sobre o projeto
 
-Trata-se de uma série de estudos realizados com foco em fundamentos sólidos de lógica de programação usando **JavaScript**.
+Este repositório contém os exercícios, atividades e o desafio final do curso **“Lógica de Programação: mergulhe em programação com JavaScript”**, oferecido pela [Alura](https://www.alura.com.br/) em parceria com o programa Oracle NEXT Education.
 
-> 🔗 Acesse a versão online da aplicação:  
-> [Página hospedada na Vercel](https://logica-de-programacao-alura-ro81buajm.vercel.app/)
-> <img width="1896" height="945" alt="image" src="https://github.com/user-attachments/assets/8c6cbf9f-056a-4a6c-a3d2-6a9807476b14" />
+Ao final do curso, desenvolvi um pequeno **jogo interativo** que coloca em prática os conceitos de lógica aprendidos.
+<img width="1440" height="720" alt="image" src="https://github.com/user-attachments/assets/05a44a71-76d9-4b1e-8a8e-e0965e45da21" />
+
+
+> 🔗 Acesse o projeto online:  
+> [logica-de-programacao-alura.vercel.app](https://logica-de-programacao-alura-ro81buajm.vercel.app/)
+
 ---
 
+## 💻 Tecnologias utilizadas
 
-## 🎯 Conteúdo abordado
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
 
-### ✅ Módulo 1 – Conceitos básicos  
-- Declaração de variáveis (`let`, `const`)  
-- Tipos de dados e operadores  
-- Saída de dados com `console.log()` e `alert()`  
+---
 
-### ✅ Módulo 2 – Estruturas de decisão e repetição  
-- Estruturas condicionais (`if`, `else`, `switch`)  
-- Estruturas de repetição (`for`, `while`)
+## 🕹️ Como o jogo funciona?
 
-### ✅ Módulo 3 – Funções e arrays  
-- Declaração e chamada de funções  
-- Parâmetros e retorno  
-- Manipulação básica de arrays
+O jogo é simples e baseado em lógica de adivinhação:
 
-### 💡 Desafio final  
-Um pequeno projeto prático com a aplicação dos conceitos vistos ao longo do curso. Acesse o projeto final [aqui](https://logica-de-programacao-alura-ro81buajm.vercel.app/).
+- O sistema escolhe **aleatoriamente um número secreto** entre 1 e 10.
+- O jogador tem um número limitado de tentativas para adivinhar o número.
+- A cada tentativa, o jogo informa se o palpite está **acima** ou **abaixo** do número correto.
+- Ao acertar, o jogador recebe uma mensagem de vitória e pode reiniciar o jogo.
+
+Este projeto tem como objetivo reforçar o uso de variáveis, estruturas condicionais, laços de repetição, funções e manipulação de eventos com JavaScript.
+
+---
+
+## 📚 Curso
+
+Curso realizado na plataforma [Alura](https://www.alura.com.br/) com certificação do programa **Oracle Next Education (ONE)**.
+
+---

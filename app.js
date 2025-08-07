@@ -30,7 +30,6 @@ function gerarNumeroSecreto() {
 }
 
 // Funções de manipulação de strings
-
 function print(element, textDescript) {
   element.textContent = textDescript;
 }

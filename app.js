@@ -6,7 +6,7 @@ let reiniciar = document.getElementById("reiniciar");
 
 // Gerando o número secreto
 let listaNumSorteados = [];
-let numLimite = 3;
+let numLimite = 10;
 let numVerificado = gerarNumeroSecreto();
 let nroTentativas = 1;
 

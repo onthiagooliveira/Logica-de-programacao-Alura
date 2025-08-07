@@ -25,7 +25,6 @@ function gerarNumeroSecreto() {
     return gerarNumeroSecreto();
   } else {
     listaNumSorteados.push(numeroSecreto);
-    console.log(listaNumSorteados);
     return numeroSecreto;
   }
 }

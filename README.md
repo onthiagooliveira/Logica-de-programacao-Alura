@@ -6,8 +6,8 @@ Este repositório contém os exercícios, atividades e desafios práticos realiz
 Trata-se de uma série de estudos realizados com foco em fundamentos sólidos de lógica de programação usando **JavaScript**.
 
 > 🔗 Acesse a versão online da aplicação:  
-> 👉 [Página hospedada na Vercel](https://logica-de-programacao-alura-ro81buajm.vercel.app/)
-
+> [Página hospedada na Vercel](https://logica-de-programacao-alura-ro81buajm.vercel.app/)
+> <img width="1896" height="945" alt="image" src="https://github.com/user-attachments/assets/8c6cbf9f-056a-4a6c-a3d2-6a9807476b14" />
 ---
 
 

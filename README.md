@@ -1,4 +1,4 @@
-#  Lógica de Programação – Alura (Oracle ONE)
+#  Lógica de Programação – Alura + Oracle ONE
 
 ##  Sobre o projeto  
 Este repositório contém os exercícios, atividades e desafios práticos realizados durante o curso **“Lógica de Programação: mergulhe em programação com JavaScript”**, oferecido pela [Alura](https://www.alura.com.br/) em parceria com o programa Oracle NEXT Education.

@@ -6,13 +6,13 @@ let reiniciar = document.getElementById("reiniciar");
 
 // Gerando o número secreto
 let listaNumSorteados = [];
-let numLimite = 10;
+let numLimite = 100;
 let numVerificado = gerarNumeroSecreto();
 let nroTentativas = 1;
 
 // Funções matemáticas
 
-// Gera um número inteiro aleatório entre 1 e 10 (inclusive)
+// Gera um número inteiro aleatório entre 1 e 100 (inclusive)
 function gerarNumeroSecreto() {
   let numeroSecreto = parseInt(Math.random() * numLimite + 1);
   let qtdElementsLista = listaNumSorteados.length;
